@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ervakucukislamoglu@gmail.com**
 
-- 📄 Know about my experiences [At the begginer level for now.](At the begginer level for now.)
+- 📄 Know about my experiences [https://github.com/ervakucukislamoglu/resume/raw/main/H.%20Erva%20Kucukislamoglu%20-%20Resume.pdf](https://github.com/ervakucukislamoglu/resume/raw/main/H.%20Erva%20Kucukislamoglu%20-%20Resume.pdf)
 
 - ⚡ Fun fact **I think I can see sharp.**
 
