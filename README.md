@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ervakucukislamoglu@gmail.com**
 
-- ⚡ Fun fact **I think I can see sharp.**
+- ⚡ Fun fact **I think I'm above the CRUDs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
