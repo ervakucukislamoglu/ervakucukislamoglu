@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a hotel management web project.**
 
-- 🌱 I’m currently learning **RabbitMQ, SignalR, WebSockets.**
+- 🌱 I’m currently learning about **RabbitMQ, SignalR, WebSockets.**
 
 - 📫 How to reach me **ervakucukislamoglu@gmail.com**
 
