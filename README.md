@@ -3,11 +3,11 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Erva.</h1>
-<h3 align="center">A passionate .NET developer from Turkey!</h3>
+<h3 align="center">A passionate Java developer from Turkey!</h3>
 
-- 🔭 I’m currently working on **a hotel management web project.**
+- 🔭 I’m currently working on **an enterprise level ticket management project.**
 
-- 🌱 I’m currently learning about **RabbitMQ, SignalR, WebSockets.**
+- 🌱 I’m currently learning about **Kafka, OpenShift, Microservice Architechture.**
 
 - 📫 How to reach me **ervakucukislamoglu@gmail.com**
 
